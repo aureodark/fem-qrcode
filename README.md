@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/aureodark/fem-qrcode)
-- Live Site URL: [Add live site URL here](https://fem-qrcode-two.vercel.app/)
+- Solution URL: [My solution URL](https://github.com/aureodark/fem-qrcode)
+- Live Site URL: [My live site URL](https://fem-qrcode-two.vercel.app/)
 
 ## My process
 
